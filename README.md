@@ -1,6 +1,10 @@
 # ExamDawn
 
-An all-in-one resource site for undergraduate students from [BNU](https://bnu.karnataka.gov.in/english) is a comprehensive digital platform designed to support students throughout their academic journey by providing a wide array of essential resources.
+An all-in-one resource site for undergraduate students from [Bengaluru North University](https://bnu.karnataka.gov.in/english). ExamDawn is a comprehensive digital platform designed to support students throughout their academic journey by providing a wide array of essential resources. 
+
+> [!NOTE]
+> ExamDawn is not affiliated to Bengaluru North University or Gopalan College of Commerce. This is a project founded by students of BCA in Gopalan College of Commerce and is completely run by volunteers and community. 
+
 
 > What Does the Site Offer?  
 
@@ -27,4 +31,6 @@ greater confidence, organization, and access to resources that support their int
 - **Personal Growth**: Access resources that not only help you academically but also contribute to your personal development and also to the site. After all, college is not just about grades; it’s about finding yourself [Kid named yourself :joy:].
 
 So, whether you’re cramming for finals, working on a lab report, or just trying to figure out what to do with your life, our all-in-one resource site is here to help you every step of the way. Use us like you use others for your... huh, never mind and take your academic journey to the next level because who said learning can’t be fun [Fr, I don't find it fun!]?
+
+\- [JP](https://github.com/Jack-Pots)
 
