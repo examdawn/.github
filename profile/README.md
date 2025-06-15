@@ -34,3 +34,10 @@ So, whether you’re cramming for finals, working on a lab report, or just tryin
 
 \- [JP](https://github.com/Jack-Pots)
 
+## Website Sources
+[Main Website Source Code: https://github.com/examdawn/website](https://github.com/examdawn/website)
+- [Simple Bash Scripts that help recreate the monorepo during build time: https://github.com/examdawn/helper_scripts](https://github.com/examdawn/helper_scripts)
+- [BCA 2023 Batch's Content(website/NEP2020/2024/BCA): https://github.com/examdawn/NEP2020_2023_BCA](https://github.com/examdawn/NEP2020_2023_BCA)
+- [JupyterLite's REPL page built from https://github.com/jupyterlite/demo](https://github.com/jupyterlite/demo)
+  - For when the built-in python REPL is not enough, eg. matplotlib
+  - Try it at https://examdawn.pages.dev/jupyterlite/dist/repl/?kernel=python
